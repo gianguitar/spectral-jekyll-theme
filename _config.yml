@@ -1,6 +1,6 @@
 # Site settings
-title: Spectral
-email: youremailaddress@gmail.com
+title: Gian Solo
+email: ftlguitars@gmail.com
 description: The Jekyll version of the Spectral theme by HTML5 UP.
 baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -18,7 +18,7 @@ facebook_url:
 github_url:
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
+instagram_url: https://www.instagram.com/gian_solo/
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
