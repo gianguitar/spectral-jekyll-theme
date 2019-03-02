@@ -1396,7 +1396,7 @@
 	}
 
 	body {
-		background: #2e3842;
+		background: #E7DECD;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -3160,7 +3160,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #6494AA;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3254,7 +3254,7 @@
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #E7DECD;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3701,7 +3701,7 @@
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #1d242a;
+		background-color: #564D4A;
 		text-align: center;
 	}
 
