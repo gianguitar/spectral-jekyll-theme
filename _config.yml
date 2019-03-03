@@ -2,7 +2,7 @@
 title: Gian Solo
 email: ftlguitars@gmail.com
 description: Handcrafted development through music information, unique arts and lifestyle curation.
-baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/giansolo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Homepage tiles
