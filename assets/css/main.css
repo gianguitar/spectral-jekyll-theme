@@ -1922,15 +1922,15 @@
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #104F55;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #32746D;
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #9EC5AB;
 		}
 
 /* Image */
@@ -2642,7 +2642,7 @@
 
 		.wrapper.style1 {
 			background-color: #000000;
-			color: #104F55;
+			color: #ffffff;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -2800,7 +2800,7 @@
 
 		.wrapper.style3 {
 			background-color: #000000;
-			color: #104F55;
+			color: #ffffff;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
