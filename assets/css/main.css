@@ -1502,6 +1502,7 @@
 	h3 {
 		font-size: 1.15em;
 		line-height: 1.75em;
+		color: #FF0000;
 	}
 
 		@media screen and (max-width: 736px) {
