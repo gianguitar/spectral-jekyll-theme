@@ -2802,15 +2802,15 @@
 
 		.wrapper.style3 {
 			background-color: #ffffff;
-			color: #ffffff;
+			color: #0000000;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style3 hr {
