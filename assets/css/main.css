@@ -2960,7 +2960,7 @@
 
 		.wrapper.style5 {
 			background-color: #ffffff;
-			color: #4E4852;
+			color: #4e4852;
 		}
 
 			.wrapper.style5 strong, .wrapper.style5 b {
@@ -3257,6 +3257,7 @@
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
 		background: #ffffff;
+		color: #000000;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
