@@ -1897,7 +1897,7 @@
 			-ms-transform: rotate(-45deg);
 			transform: rotate(-45deg);
 			border-radius: 3px;
-			border: solid 2px #fff;
+			border: none;
 			display: inline-block;
 			font-size: 1.35em;
 			height: calc(3em + 2px);
