@@ -3,7 +3,7 @@ title: Gian Solo
 email: gtrsage@gmail.com
 description: Handcrafted development through music information, unique arts and lifestyle curation.
 baseurl: "/giansolo" # the subpath of your site, e.g. /blog
-url: "https://gianguitar.github.io/giansolo/" # the base hostname & protocol for your site
+url: "https://gianguitar.github.io/giansolo" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
