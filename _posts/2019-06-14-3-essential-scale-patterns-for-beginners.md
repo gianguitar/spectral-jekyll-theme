@@ -3,7 +3,7 @@ layout: post
 title: 3 Essential Scale Patterns for Beginners
 category: Guitar
 description: You must learn the essentials before you can actually rock.
-image: pic01.jpg
+image: leadguitar.jpeg
 ---
 The beginner guitar player must have a lots of patience and curiosity. Aside from being already hungry to actually learn how to
 play the guitar correctly, patience and curiosity can go a long way in keeping the beginner interested in the process. The actual 
