@@ -21,13 +21,13 @@ players arsenal of skills. But before you get crankin', here are some fast rules
 •	Keep in mind that you must pick each note cleanly without any snags. You're only cheating yourself if you move up in speed without making sure that you are accurately picking each note. Speed will come later, concentrate on clean picking.
 •	Make sure you are picking the strings over/under and not just over (the string). This is key to picking neatly and gaining speed.
 
-Blues Scale
+Blues Scale<br />
 <img src="https://drive.google.com/uc?id=1--ppyFSjdSTAR2AHFF7nQmzrwOBBIUIg">
 
-Blues Scale (Em)
+Blues Scale (Em)<br />
 <img src="https://drive.google.com/uc?id=1D789nkCROTzA3Q7Gt4j5UM48pAs6nxLO">
 
-Pentantonic 5 (A)
+Pentantonic 5 (A)<br />
 <img src="https://drive.google.com/uc?id=1pLiVV4MFLN6Q04TY6rp3u_3UiDqvWyOk">
 
 And there you have it. There are tons of scales you could learn and I encourage you to learn as many as you can because not all
