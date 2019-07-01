@@ -1659,7 +1659,8 @@
   background-color: #eee;
   color: #444;
   cursor: pointer;
-  padding: 10px;
+  padding-bottom: 15px;
+  padding-top: 15px;
   width: 100%;
   border: none;
   text-align: left;
