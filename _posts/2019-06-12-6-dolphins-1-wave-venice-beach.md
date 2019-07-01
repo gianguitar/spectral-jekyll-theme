@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Dolphins, 1 Wave. Venice Beach.
-category: G Stories
+categories: G Stories
 description: Dolphins at Venice beach, California? You bet. It was magical.
 comments: true
 image: dolphins.jpeg
