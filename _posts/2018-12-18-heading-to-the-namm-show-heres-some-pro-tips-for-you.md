@@ -3,7 +3,6 @@ layout: post
 title: Heading to The NAMM Show? Here's Some Pro Tips For You!
 categories: Article
 description: Definitely one of the best places to network and learn all about musical products and upcoming innovations in pro audio and event technology, hands-down.
-comments: true
 image: namm.jpg
 ---
 The NAMM Show is well underway! The 2019 NAMM Show is currently located and being held at the Anaheim convention center in Anaheim, CA
