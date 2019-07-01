@@ -3,7 +3,6 @@ layout: post
 title: Got Laid Off Rockstar? Do These Next
 categories: Article
 description: Did you recently get laid-off? Here's some tips on what to do next.
-comments: true
 image: leadgit.jpeg
 ---
 And that day finally came. The day that you thought would never come but now it's here, in your face and it's totally happening.
