@@ -1,3 +1,11 @@
+---
+layout: post
+title: 5 Iconic Guitar Riffs From the 90's Pt. 1
+category: Guitar
+description: These five iconic guitar riffs helped shaped the sound of a generation.
+comments: true
+image: 90git.jpeg
+---
 <p>Do you remember these guitar riffs? Of course you do!</p>
 
 <p>These five iconic guitar riffs were definitely at the forefront of the 90’s sound. They became a part of the sound of a generation that was driven by rock guitars. 
