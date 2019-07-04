@@ -1,3 +1,11 @@
+---
+layout: post
+title: 10 Best Resources for Beginning Guitar Players
+categories: G-Stories
+description: If you are at the beginning of your guitar playing journey, these ten sites will help give you a major boost.
+comments: true
+image: beggit.jpeg
+---
 <p>Learning how to play the guitar is a lot of work. It’s also a lot of fun but the fun comes after when you are actually playing the guitar comfortably without hesitation or refrain. There will come a time, if you keep learning, where that moment will come, trust me. Unfortunately though, for some, they won’t make it to see that moment.</p>
 
 <p>But for the others that are striving to become a great guitar player, the beginning is the most difficult part as there are a ton of things to learn, exercise, practice and try. Hell, just trying to figure out which style of guitar playing you want to learn is a whole guide by itself. Don’t even get me started on how to choose a pick.</p>
