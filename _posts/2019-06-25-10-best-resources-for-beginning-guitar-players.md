@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Best Resources for Beginning Guitar Players
-categories: G-Stories
+categories: Guitar
 description: If you are at the beginning of your guitar playing journey, these ten sites will help give you a major boost.
 comments: true
 image: beggit.jpeg
