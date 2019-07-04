@@ -1,3 +1,11 @@
+---
+layout: post
+title: Effects Pedals Every Guitar Player Needs In their Life
+categories: Guitar
+description: One of these guitar effects pedals may hold the key in creating your very own signature sound.
+comments: true
+image: effectsgit.jpeg
+---
 <p>Some guitarists will go through an infinite amount of effects pedals throughout their musical career and some won’t. Some will modify their 
 effects pedal board throughout their musical career, in search of a sound they can call their own or a sound that can fit the current need.
 I myself have been at both ends of this spectrum, at one point selling my whole pedal board to start anew, but then ending up buying some of
