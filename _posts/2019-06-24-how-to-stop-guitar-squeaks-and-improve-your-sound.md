@@ -45,7 +45,7 @@ and hold. Practice this until you minimize the squeaks. Basically, if you're hol
 lift your fingers and then hold the G. The lift is the most important part and is the most difficult part to memorize.
 
 <a href="http://www.tkqlhce.com/click-8982858-12963665" target="_top">
-<img src="http://www.tqlkg.com/image-8982858-12963665" width="300" height="250" alt="Tickets at TicketNetwork.com" border="0"/></a>
+<img src="http://www.tqlkg.com/image-8982858-12963665" width="300" height="250" padding="15px" alt="Tickets at TicketNetwork.com" border="0"/></a>
 
 Unfortunately, you can't really get rid of all the guitar squeaks.
 
