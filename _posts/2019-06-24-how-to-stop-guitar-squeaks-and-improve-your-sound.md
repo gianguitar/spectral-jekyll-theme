@@ -16,7 +16,7 @@ and after only a few minutes, I finally heard it. The recordings were marred by 
 finger strummed the acoustic guitar parts. It drove me mad.
 
 <a href="http://www.kqzyfj.com/click-8982858-13585558" target="_top">
-<img src="http://www.lduhtrp.net/image-8982858-13585558" width="300" height="600" alt="300x600 Get More Done, Together" border="0"/></a>
+<img src="http://www.lduhtrp.net/image-8982858-13585558" width="300" height="600" align="left" alt="300x600 Get More Done, Together" border="0"/></a>
 
 I tried mixing something to no avail. I was a newbie to playing guitar and recording so I tried to do what i thought was the right thing to do. But in the end, I knew that the problem was actually me. You see, when you're a beginner, it's the hardest pill to swallow. Life is over. Why do I suck? what am I going to do? Maybe the guitar is not right for me. I hear ya, it's goddamn crippling!
 
