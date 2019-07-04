@@ -1,7 +1,11 @@
-The Beauty of Going to Retail Instrument Stores Before the Internet
-
-The glory days of retail musical instrument stores have come and gone and boy I kind of miss them.
-
+---
+layout: post
+title: The Beauty of Going to Retail Instrument Stores Before the Internet
+categories: Article
+description: The glory days of retail musical instrument stores have come and gone and boy I kind of miss them.
+comments: true
+image: guitarg.jpeg
+---
 Back in the 90's, the only way to see and play guitars was by going to retail musical instrument stores. It was an experience, an experience to be had. Before the internet
 arrived and gave everyone the chance to purchase a guitar or instruments online, going to a retail musical instrument store was it. People frequented all of the local
 musical instrument stores and crowded the big box retail musical instrument stores. Some went to pawn shops, antique stores and local auctions to chase the guitar they were
