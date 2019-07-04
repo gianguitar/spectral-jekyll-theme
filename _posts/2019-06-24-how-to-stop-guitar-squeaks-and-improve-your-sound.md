@@ -1,5 +1,11 @@
-Rubbing those string the wrong way aye?
-
+---
+layout: post
+title: How to Stop Guitar Squeaks and Improve Your Sound
+categories: Guitar
+description: Rubbing those string the wrong way aye?
+comments: true
+image: squeakgit.jpeg
+---
 Do you have any clue how loud your guitar squeaks are? Do you even know what I'm talking about? If you do, do you know how to stop guitar squeaks?
 
 Probably not. If you're like me, I was not aware how bad the strings squeaked when I played until the very first time I recorded myself. I took
