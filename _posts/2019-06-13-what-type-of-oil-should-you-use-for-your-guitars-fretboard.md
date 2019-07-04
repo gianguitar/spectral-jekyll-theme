@@ -3,6 +3,7 @@ layout: post
 title: What Type of Oil Should You Use for Your Guitars Fretboard?
 categories: Guitar
 description: With so many oils in the market, finding the right one could get complicated. Here's my take on which one you should you use for your fretboard.
+comments: true
 image: fretguitar.jpeg
 ---
 Let's start off by saying, there are many answers. Matter of fact, there are way, way too many answers. One Google search pulls up hundreds of suggestions, forums, sites, products and whatnot, all adding to the confusion and your frustration. I mean, who the hell wants to ruin their guitar's fretboard right?
