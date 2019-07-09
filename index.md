@@ -1,5 +1,6 @@
 ---
 layout: default
-title: Home
-description: Guitarist, Instuctor, Writer, Songwriter and Dveloper. 
+title: Gian Guitar: Guitar Development & Instruction by Gian Solo
+description: Guitarist, Instuctor, Writer, Songwriter, Developer. 
+image: leadgit.jpeg
 ---
