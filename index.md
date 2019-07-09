@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Gian Guitar: Guitar Development & Instruction by Gian Solo
+title: Gian Guitar: Guitar Development Instruction by Gian Solo
 description: Guitarist, Instuctor, Writer, Songwriter, Developer. 
 ---
