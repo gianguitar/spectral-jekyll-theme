@@ -2,5 +2,5 @@
 layout: default
 title: Gian Guitar: Guitar Development & Instruction by Gian Solo
 description: Guitarist, Instuctor, Writer, Songwriter, Developer. 
-image: leadgit.jpeg
+image: frontg.jpg
 ---
