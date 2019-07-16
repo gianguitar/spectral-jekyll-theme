@@ -3,7 +3,7 @@ title: Gian Guitar
 email: gtrsage@gmail.com
 description: Handcrafted guitar development through lessons, instructions, sessions & consultations.
 baseurl: "/giansolo" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://gianguitar.com" # the base hostname & protocol for your site
 permalink: /:categories/:title/
 
 # Homepage tiles
