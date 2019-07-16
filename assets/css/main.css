@@ -3848,7 +3848,7 @@
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: rgba(0,0,0,0.9);
 	}
 
 	body.is-mobile.landing #page-wrapper {
