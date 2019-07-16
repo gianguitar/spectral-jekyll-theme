@@ -3775,7 +3775,7 @@
 				}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(0,0,0,1.0);
 			font-size: 0.8em;
 			letter-spacing: 0.225em;
 			list-style: none;
@@ -3802,7 +3802,7 @@
 				}
 
 					#footer .copyright li a:hover {
-						color: #fff;
+						color: #cccccc;
 					}
 
 				@media screen and (max-width: 480px) {
