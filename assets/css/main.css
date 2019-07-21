@@ -2282,7 +2282,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: transparent;
+		background-color: #E9BC37;
 		border-radius: 3px;
 		border: 0;
 		box-shadow: inset 0 0 0 2px #fff;
@@ -2345,6 +2345,7 @@
 			background-color: #E9BC37;
 			box-shadow: none !important;
 			color: #ffffff !important;
+			display: inline-block;
 		}
 
 		input[type="submit"].big,
