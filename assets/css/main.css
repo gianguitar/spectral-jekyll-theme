@@ -2342,7 +2342,9 @@
 		input[type="button"].small,
 		button.small,
 		.button.small {
-			font-size: 0.8em;
+			background-color: #E9BC37;
+			box-shadow: none !important;
+			color: #ffffff !important;
 		}
 
 		input[type="submit"].big,
