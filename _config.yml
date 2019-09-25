@@ -1,7 +1,7 @@
 # Site settings
-title: Gian Guitar - Guitar Lessons in San Fernando Valley/LA I Professional Guitar Development Through Expert Instruction  
-email: gtrsage@gmail.com
-description: Handcrafted guitar development through lessons, instructions, sessions & consultations.
+title: Gian Official - Professional Guitar Development, Songwriting & Writing 
+email: soundsbygian@gmail.com
+description: Handcrafted Guitar Development, Songwriting & Writing
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://gianguitar.com" # the base hostname & protocol for your site
 permalink: /:categories/:title/
