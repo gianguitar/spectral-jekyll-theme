@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Handcrafted Guitar Development by Gian Solo
-description: Guitarist, Instructor, Writer, Songwriter, Developer. 
+title: Handcrafted Guitar Development, Songwriting & Writing by Gian Solo
+description: Guitarist, Mentor, Writer, Songwriter, Developer. 
 ---
 
