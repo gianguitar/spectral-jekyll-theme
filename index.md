@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Handcrafted Guitar Development, Songwriting & Writing by Gian Solo
+title: MENU
 description: Guitarist, Mentor, Writer, Songwriter, Developer. 
 ---
 
