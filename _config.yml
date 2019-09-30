@@ -10,11 +10,6 @@ permalink: /:categories/:title/
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 3
 
-# Comments
-disqus_shortname: iamgian-2
-url:              https://gianguitar.com
-
-
 # Misc settings
 featured-image-source:
 
