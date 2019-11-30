@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Bird Pooped On Me. Is It Good Luck?"
-categories: 
+categories: G-Stories
 date:   2018-10-06
 excerpt: "Have you ever been pooped on by a bird?"
 image: "/images/birpoop.jpg"
