@@ -2,9 +2,9 @@
 layout: post
 title:  "Best Bluetooth Speakers for Music Lovers"
 categories: Article
-date:   2019-01-07
-excerpt: "Listening to music through bluetooth speakers is a must for any music lover."
-image: "/images/btspeaks.jpg"
+description: Listening to music through bluetooth speakers is a must for any music lover.
+comments: true
+image: btspeaks.jpg
 ---
 In the market for a badass bluetooth speaker for your listening needs? Let me help. I've chosen 5 that are sure to satisfy your listening needs. Whether you dable
 in rock, rap, hip-hop, classical, jazz, folk, metal, dance, electronic or whichever music you prefer, these 5 are it.
