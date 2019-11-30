@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Absolute Radio Gold&#58 The Session with Christian James Hand."
+title:  "Absolute Radio Gold: The Session with Christian James Hand."
 categories: Article
 description: Track-by-track breakdowns of some of your favorite hits.
 comments: true
