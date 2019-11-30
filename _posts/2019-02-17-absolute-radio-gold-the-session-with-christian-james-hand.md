@@ -2,11 +2,10 @@
 layout: post
 title:  "Absolute Radio Gold&#58 The Session with Christian James Hand."
 categories: Guitar
-date:   2019-02-17
-excerpt: "Track-by-track breakdowns of some of your favorite hits."
-image: "/images/cjh.jpg"
----
-
+description: Track-by-track breakdowns of some of your favorite hits.
+comments: true
+image: cjh.jpg
+----
 Ever heard of Christian James Hand?
 
 If you haven't, its okay, cause I barely heard about Christian last year after hearing "The Session" one morning while listening 
