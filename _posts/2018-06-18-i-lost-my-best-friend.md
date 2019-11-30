@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I lost my best friend"
-categories: Personal
+categories: G-Stories
 date:   2018-06-18
 excerpt: "Mark Cabrera lost his life on June 17th, 2018."
 image: "/images/marktum.jpg"
