@@ -2,10 +2,9 @@
 layout: post
 title:  "TOOL Brings Fear Inoculum to Life in Los Angeles with an Epic Staples Center Performance"
 categories: Article
-date:   2019-10-23
+description: Without a doubt, the 13 year wait was well worth it.
 comments: true
-excerpt: "Without a doubt, the 13 year wait was well worth it."
-image: "/images/tool1529travisshinn.jpg"
+image: tool1529travisshinn.jpg
 ---
 Photo credit: Travis Shinn
 
