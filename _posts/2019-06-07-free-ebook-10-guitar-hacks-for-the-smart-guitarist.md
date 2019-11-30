@@ -2,10 +2,9 @@
 layout: post
 title:  "Free EBook: 10 Guitar Hacks for the Smart Guitarist"
 categories: Guitar
-date:   2019-06-07
+description: Want some hacks for free?
 comments: true
-excerpt: "Want some hacks for free?"
-image: "/images/githacks.jpeg"
+image: githacks.jpeg
 ---
 When I was learning how to master the guitar, there was a lot of exploring, reading and obstacles. Mind you, the Internet didn't 
 exist back then so fetching for info was simply not as easy. But fortunately, the same wisdom that I gathered from studies, classes,
