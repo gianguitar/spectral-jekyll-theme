@@ -2,12 +2,10 @@
 layout: post
 title:  "Why Does It Take So Long to Learn How to Play the Guitar? "
 categories: Guitar
-date:   2019-06-27
+description: Thinking of picking up the guitar? Read on my friend.
 comments: true
-excerpt: "Thinking of picking up the guitar? Read on my friend."
-image: "/images/learngit.jpeg"
+image: learngit.jpeg
 ---
-
 I get asked this question <b>A LOT.</b>
 
 "Hey man, so I want to start playing guitar. How long you think it'll take?"
