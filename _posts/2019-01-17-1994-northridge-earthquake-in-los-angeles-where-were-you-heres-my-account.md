@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1994 Northridge Earthquake In Los Angeles, Where Were You? Here's My Account"
-categories: [Articles]
+categories: [Article]
 date:   2019-01-17
 excerpt: "It was the biggest earthquake I have ever felt in my life. It was truly scary."
 image: "/images/laquake.jpg"
