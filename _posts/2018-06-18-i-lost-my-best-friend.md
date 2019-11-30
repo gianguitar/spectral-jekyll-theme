@@ -4,7 +4,7 @@ title:  "I lost my best friend"
 categories: G-Stories
 date:   2018-06-18
 excerpt: "Mark Cabrera lost his life on June 17th, 2018."
-image: "/images/marktum.jpg"
+image: "/images/nmm.jpg"
 ---
 I lost my best friend two weeks ago. I have many amazing friends, but I’ve only had one best friend. 
 
