@@ -6,6 +6,7 @@ description: Track-by-track breakdowns of some of your favorite hits.
 comments: true
 image: cjh.jpg
 ----
+
 Ever heard of Christian James Hand?
 
 If you haven't, its okay, cause I barely heard about Christian last year after hearing "The Session" one morning while listening 
