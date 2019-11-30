@@ -4,7 +4,7 @@ title:  "10 Best Sources for Beginning Guitar Players"
 categories: Guitar
 description: If you are at the beginning of your guitar playing journey, these ten sites will help give you a major boost.
 comments: true
-image: "/images/boygit.jpeg"
+image: boygit.jpeg
 ---
 Learning how to play the guitar is a lot of work. It's also a lot of fun but the fun comes after when you are actually playing the guitar comfortably without hesitation or refrain. There will come a time, if you keep learning, where that moment will come, trust me. Unfortunately though, for some, they won't make it to see that moment.
 
