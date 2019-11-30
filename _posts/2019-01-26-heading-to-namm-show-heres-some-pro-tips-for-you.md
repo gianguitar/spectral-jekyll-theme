@@ -2,9 +2,9 @@
 layout: post
 title:  "Heading to The NAMM Show? Here's Some Pro Tips For You!"
 categories: Guitar
-date:   2019-01-26
-excerpt: "Definitely one of the best places to network and learn all about musical products and upcoming innovations in pro audio and event technology, hands-down."
-image: "/images/nmm.jpg"
+description: Definitely one of the best places to network and learn all about musical products and upcoming innovations in pro audio and event technology, hands-down.
+comments: true
+image: nam.jpg
 ---
 The NAMM Show is well underway! The 2019 NAMM Show is currently located and being held at the Anaheim convention center in Anaheim, CA
 and will run from January 24-27. 
