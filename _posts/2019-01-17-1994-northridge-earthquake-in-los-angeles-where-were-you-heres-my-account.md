@@ -2,10 +2,10 @@
 layout: post
 title:  "1994 Northridge Earthquake In Los Angeles, Where Were You? Here's My Account"
 categories: G-Stories
-date:   2019-01-17
-excerpt: "It was the biggest earthquake I have ever felt in my life. It was truly scary."
-image: "/images/laquake.jpg"
----
+description: It was the biggest earthquake I have ever felt in my life. It was truly scary.
+comments: true
+image: laquake.jpg
+----
 25 years ago, today, Los Angeles, mainly the San Fernando Valley, was awakened in a brutal manner by a devastating earthquake.
 
 At the end of the shaking, which lasted for 1-3 days, 50 people were killed, the damage ended up costing $35 billion and left 22,000 people displaced
