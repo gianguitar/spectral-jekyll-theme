@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Absolute Radio Gold&#58 The Session with Christian James Hand."
-categories: Guitar
+categories: Article
 description: Track-by-track breakdowns of some of your favorite hits.
 comments: true
 image: cjh.jpg
