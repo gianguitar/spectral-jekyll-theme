@@ -5,7 +5,7 @@ categories: Article
 date:   2019-07-03
 comments: true
 excerpt: "What did you think the song acually meant? Find out."
-image: "/images/cornelllives.jpg"
+image: "assets/images/cornelllives.jpg"
 ---
 Long live Chris Cornell, Rock God.
 
