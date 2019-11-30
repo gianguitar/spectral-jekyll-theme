@@ -2,10 +2,9 @@
 layout: post
 title:  "Best Father's Day Gift Ideas for Rocker Dads"
 categories: Guitar
-date:   2019-05-22
+description: Rocker dads rule and so should your gift to them. Don't be so plain, jane.
 comments: true
-excerpt: "Rocker dads rule and so should your gift to them. Don't be so plain, jane."
-image: "/images/gitfathers.jpeg"
+image: gitfathers.jpeg
 ---
 Father's Day is right around the corner and dad probably deserves something awesome am I right? Well, it's not too late!
 
