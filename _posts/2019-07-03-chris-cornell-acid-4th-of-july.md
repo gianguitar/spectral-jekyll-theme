@@ -2,10 +2,9 @@
 layout: post
 title:  "Chris Cornell + Acid + 4th of July"
 categories: Article
-date:   2019-07-03
+description: What did you think the song acually meant? Find out.
 comments: true
-excerpt: "What did you think the song acually meant? Find out."
-image: "assets/images/cornelllives.jpg"
+image: cornelllives.jpg
 ---
 Long live Chris Cornell, Rock God.
 
