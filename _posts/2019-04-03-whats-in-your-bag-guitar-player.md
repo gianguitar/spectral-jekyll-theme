@@ -2,10 +2,9 @@
 layout: post
 title:  "What's In Your Bag Guitar Player?"
 categories: Guitar
-date:   2019-04-03
+description: Ever wonder what that guitar player has in his bag? If you're like me, then the answer is yes.
 comments: true
-excerpt: "Ever wonder what that guitar player has in his bag? If you're like me, then the answer is yes."
-image: "/images/guitarbag.jpeg"
+image: guitarbag.jpeg
 ---
 Say fella, what you got in the bag? 
 
