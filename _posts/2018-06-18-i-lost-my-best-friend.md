@@ -2,10 +2,11 @@
 layout: post
 title:  "I lost my best friend"
 categories: G-Stories
-date:   2018-06-18
-excerpt: "Mark Cabrera lost his life on June 17th, 2018."
-image: "/images/nmm.jpg"
+description: Mark Cabrera lost his life on June 17th, 2018.
+comments: true
+image: marktum.jpg
 ---
+
 I lost my best friend two weeks ago. I have many amazing friends, but I’ve only had one best friend. 
 
 Mark Cabrera passed away yesterday morning in his sleep. He was found unresponsive by his fiancé after coming back from the grocery store. Our very good friend (brother) Josh, whom lives in the apt., performed CPR until firefighters arrived. Unfortunately, it was too late and Mark was not revived. The cause of death remains unknown. 
